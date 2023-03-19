@@ -1,0 +1,14 @@
+//
+// Created by MyHomeDesktop on 2023-03-19,019.
+//
+
+#ifndef STUDYCPPOBJECT_MYFIRSTCPPCLASS_H
+#define STUDYCPPOBJECT_MYFIRSTCPPCLASS_H
+
+
+class MyFirstCppCLass {
+
+};
+
+
+#endif //STUDYCPPOBJECT_MYFIRSTCPPCLASS_H
