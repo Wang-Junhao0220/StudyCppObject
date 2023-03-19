@@ -3,4 +3,4 @@ project(StudyCppObject)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(StudyCppObject main.cpp MyFirstCppCLass.cpp MyFirstCppCLass.h)
+add_executable(StudyCppObject main.cpp MyFirstCppCLass.cpp MyFirstCppCLass.h Time.cpp Time.h)
